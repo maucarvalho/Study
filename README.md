@@ -1,5 +1,5 @@
 ### Things I need to Study </br >
 
-✅ Docker
-✅ K8S
-✅ Argo CD
+✅ Docker </br >
+✅ K8S </br >
+✅ Argo CD </br >
