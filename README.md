@@ -9,3 +9,5 @@
 ✅ Postman </br >
 ✅ Grafana </br >
 ✅ Terraform </br >
+✅ Notion </br >
+✅ Google Workspace </br >
