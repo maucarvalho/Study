@@ -12,4 +12,4 @@
 ✅ Notion </br >
 ✅ Google Workspace </br >
 
-## <a href="https://codefresh.learnworlds.com/path-player?courseid=gitops-with-argo&unit=gitops-with-argo_1635254185573_0Unit">Do Course about GitOps</a>         
+<a href="https://codefresh.learnworlds.com/path-player?courseid=gitops-with-argo&unit=gitops-with-argo_1635254185573_0Unit">Do Course about GitOps</a>         
